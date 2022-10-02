@@ -1,6 +1,8 @@
 # missile-guidance
 Navigational algorithms for missile guidance 
 
+<img width="25%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Proportional_navigation_example.svg/1024px-Proportional_navigation_example.svg.png" />
+
 ## Useful resources
 
 - [Proportional navigation](https://en.wikipedia.org/wiki/Proportional_navigation)
